@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "removeComments": true,
+        "jsx": "preserve",
+        "moduleResolution": "node"
+    },
+    "exclude":[
+        "node_modules",
+        "dist"
+    ]
+}
